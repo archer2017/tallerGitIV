@@ -11,11 +11,15 @@
             color:red;
             font-family:Arial;
         }
+
+        #capa{
+            border:solid green 5px;
+        }
     </style>
 </head>
 <body>
     <form id="form1" runat="server">
-    <div>
+    <div id="capa">
     
        <h1> Aprendiendo a Usar Git</h1>
 
